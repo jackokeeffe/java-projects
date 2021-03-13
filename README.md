@@ -1,5 +1,6 @@
 ## Java Projects
 Simple Projects written in Java.
+
 This repository is used to track progress while learning Java.
 <hr>
 
