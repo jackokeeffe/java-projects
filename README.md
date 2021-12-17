@@ -1,7 +1,5 @@
 ## Java Projects
-Simple Projects written in Java.
-
-This repository is used to track progress while learning Java.
+Projects written in Java.
 <hr>
 
 ### Installation
@@ -11,7 +9,7 @@ git clone https://github.com/jackokeeffe/java-projects.git
 ```
 
 ### Built With:
-- Made using Python.
+- Made using Java.
 - Created using [IntelliJ IDEA](https://www.jetbrains.com/idea/).
   
 ### Author:
