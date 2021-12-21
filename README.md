@@ -10,7 +10,8 @@ git clone https://github.com/jackokeeffe/java-projects.git
 
 ### Built With:
 - Made using Java.
-- Created using [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- Built in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
   
 ### Author:
 - Author: Jack O'Keeffe
+- [Website](https://jackokeeffe.me)
